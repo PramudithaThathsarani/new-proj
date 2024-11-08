@@ -1,1 +1,19 @@
 :where(:not(iframe,canvas,img,svg,video):not(svg *)){all:unset;display:revert}*,::after,::before{box-sizing:border-box}ol,ul{list-style:none}img{max-width:100%}table{border-collapse:collapse}textarea{white-space:revert}.clearfix:after{visibility:hidden;display:block;font-size:0;content:" ";clear:both;height:0}* html .clearfix{height:1%}.clearfix{display:block}
+.primarycolor{background-color: #3B2F2F;}
+.secondarycolor{background-color: #6F4E37 ;}
+.secondarytexcolor{color: #513B1C;}
+.h2{font-size: 1.5em;}
+.h3{font-size: 1.3em;}
+.h4{font-size: 1.1em;}
+.h5{font-size: 1em;}
+.floatleft{float: left;}
+.floatright{float: right;}
+.textaligncenter{text-align: center;}
+
+/*navigation*/
+
+/*hero*/
+
+/*subsection*/
+
+/*footer*/
